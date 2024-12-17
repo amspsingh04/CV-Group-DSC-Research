@@ -21,3 +21,8 @@ Our aim is to generalise it well enough to work with RI, and Galar datasets
 ## Team 
     Members - Aaqil, Harikumar, Hitesh, Navneeth, Paarth, Rahul, Shubansh, Shourya, Sriansh - VIT Chennai (2024-25)
     Advisor - Dr. Ibrahim, VIT Chennai
+
+
+#### To clone this repo
+        git clone https://github.com/amspsingh04/CV-Group-DSC-Research.git
+        cd CV-Group-DSC-Research
